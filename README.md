@@ -1,6 +1,6 @@
 # Kims-Kitties
 
-Deployed and can be accessed at ![Kim's Kitties](kims-kitties.surge.sh)
+Deployed and can be accessed at [Kim's Kitties](kims-kitties.surge.sh)
 
 An App for cats’ shelter using random cat API built with Vanilla JS
 
